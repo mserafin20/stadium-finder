@@ -1,0 +1,12 @@
+{
+  "name": "stadium-finder",
+  "version": "1.0.0",
+  "description": "An app that lets you search for your favorite stadium, see what events or games are happening, and a short forecast of the weather!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
